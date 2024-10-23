@@ -71,7 +71,7 @@ export default function Misiones() {
             moneyReward: "$50 - $250",
             xpReward: "5 - 25",
             difficulty: 15,
-            duration: 5,
+            duration: 1.5 * 60,
             costEnergy: 10,
         },
         {
@@ -81,8 +81,8 @@ export default function Misiones() {
             description: "Irrumpe dentro de una casa y apropiate objetos de valor",
             moneyReward: "$1500 - $2500",
             xpReward: "150 - 250",
-            difficulty: 5,
-            duration: 5,
+            difficulty: 35,
+            duration: 15 * 60,
             costEnergy: 35,
         },
         {
@@ -92,8 +92,8 @@ export default function Misiones() {
             description: "Entra al Banco y roba la bodega de Oro",
             moneyReward: "$30000 - $50000",
             xpReward: "750 - 1000",
-            difficulty: 10,
-            duration: 3,
+            difficulty: 85,
+            duration: 4 * 3600,
             costEnergy: 60,
         },
     ];

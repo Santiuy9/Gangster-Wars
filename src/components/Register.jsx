@@ -40,13 +40,11 @@ export default function Register() {
               energia: 100,
               dinero: 0,
               monedaPremium: 0,
-              // Nuevo array "Character" con "Armamento", "Equipamiento" y "Vehículo" como objetos vacíos
               Character: {
                 Armamento: [],
                 Equipamiento: [],
                 Vehículo: []
               },
-              // Nuevo array "Inventory" que estará vacío al inicio
               Inventory: []
             })
             console.log('Usuario registrado y guardado en Firestore')

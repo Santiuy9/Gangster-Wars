@@ -2,7 +2,6 @@ import React from 'react'
 import './css/ProgressBar.css'
 
 const ProgressBar = ({ name, TXTcolor, BGcolor, fillPercentage }) => {
-  // Aseguramos que el porcentaje esté entre 0 y 100
   const clampedFillPercentage = Math.min(100, Math.max(0, fillPercentage))
 
   return (
