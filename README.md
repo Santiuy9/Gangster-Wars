@@ -17,4 +17,8 @@ De todas formas les dejare una cuenta para ingresar al juego de modo que puedan 
 Email: test@test.com
 Password: test123
 
+En la siguiente imagen se detalla como editar el codigo para probar algunas funciones el el archivo "Misiones.jsx"
+![readme_1](https://github.com/user-attachments/assets/f08d7f52-5b5f-417b-8ac4-4d4a1ce7b12b)
+De esa forma podrian probar como es la logica de las misiones
+
 No tuve mucho tiempo para realizar el proyecto por un pequeño accidente que tuve soy conciente de que lo estoy entregando fuera de fecha y hay cosas importantes que faltan... En los proximos dias seguire trabajando para terminar de pulir algunos puntos del proyecto!
